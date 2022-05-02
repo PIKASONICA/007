@@ -1,0 +1,13 @@
+atribuindo o valor de x
+
+x = {"fabricante":"Volkswagen", "modelo":"fusca", "ano": 1980} #
+    Criando um dicionário de nome x com trẽs pares do chave:valor .
+    print(x) #  Exibe o dicionário  completo >
+    print(x["model"]) # Exibe o valor do fusca, pois é o valor
+         armazenando na chave modelo .
+    print(x["ano"]) # Exibe o valor 1989, pois é o valor armazenado na
+         chave ano
+x["ano"] = 1990 # Substitui o valor da chave ano pelo valor número
+     inteiro ano>
+    print(x["ano"]) # Exibe o valor 1990, pois é o novo valor 
+        armazenado na chave ano.
